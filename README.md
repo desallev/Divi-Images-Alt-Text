@@ -18,6 +18,13 @@ at the Advanced Tab, in the Image Alternative Text box. If you don’t add your 
 the image module itself your alt text will not work, even though it’s added at the media library.
 
 
+<b>How to get image alt tags working on a divi website</b><br>
+Make a child theme and Insert this "snippet" in the functions.php file.
+
+Enjoy ;)
+<br>
+<br><br>
+
 /*<br>
 Description: Divi Images Alt Text<br>
 Author: divimastermind.<br>
@@ -26,12 +33,6 @@ Author: https://divimastermind.com/divi-alt-text-in-bildern-fehlt/<br>
 <br>
 <br>
 
-<b>How to get image alt tags working on a divi website</b><br>
-Make a child theme and Insert this "snippet" in the functions.php file.
-
-Enjoy ;)
-<br>
-<br><br>
 <br>
 <pre>
   <code>
