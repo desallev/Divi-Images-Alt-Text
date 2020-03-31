@@ -30,7 +30,9 @@ Author: https://divimastermind.com/divi-alt-text-in-bildern-fehlt/<br>
 Make a child theme and Insert this "snippet" in the functions.php file.
 
 Enjoy ;)
-
+<br>
+<br><br>
+<br>
 <pre>
   <code>
     // ALT-Tags aus der Mediathek auslesen
